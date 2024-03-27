@@ -1,0 +1,20 @@
+[
+    {
+      "identifier": 1, 
+      "name": "ming", 
+      "role": "admin",
+      "walletaddress": "0x34E8E400BE58476977EB37c18d3C005878AB6d0C"
+    },
+    {
+      "identifier": 2, 
+      "name": "samar", 
+      "role": "teammember",
+      "walletaddress": "0x34E8E400BE58476977EB37c18d3C005878AB6d0C"
+    },
+    {
+      "identifier": 3,
+      "name": "dija", 
+      "role": "teammember",
+      "walletaddress": "0x34E8E400BE58476977EB37c18d3C005878AB6d0C"
+    }
+]
