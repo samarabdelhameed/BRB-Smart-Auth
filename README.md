@@ -2,10 +2,10 @@
 # Smart-Auth Solution
 
 "Smart-Auth revolutionizes user authentication for organizations, offering a sophisticated single-sign-on solution. Employing advanced techniques such as account abstraction and zero-knowledge proofs (zkProofs), it ensures a robust, secure, and frictionless authentication experience."
-[Smart-Auth] git hub link : (https://github.com/samar19/smart-auth)
+[Smart-Auth] git hub link : (https://github.com/samarabdelhameed/BRB-Smart-Auth)
 ## About Me
 
-Hello! I'm samar abdelhameed builder [Smart-Auth](https://github.com/samar19/smart-auth)
+Hello! I'm samar abdelhameed builder [Smart-Auth](https://github.com/samarabdelhameed/BRB-Smart-Auth)
 
 
 
